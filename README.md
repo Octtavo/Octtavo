@@ -1,4 +1,4 @@
-### Hi there, me chamo Otavio
+### Olá, Eu sou Otávio
 
 <div align="center">
   <a href="https://github.com/Octtavo">
